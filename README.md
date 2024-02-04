@@ -1,2 +1,2 @@
 # Cat-photo
- This is freecodecamo exercise. 
+ This is freecodecamp exercise. and love to do this, 
